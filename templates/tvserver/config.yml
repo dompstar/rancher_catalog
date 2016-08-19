@@ -1,0 +1,8 @@
+name: TVServer
+description: |
+  The private TV Server
+version: 0.1.0
+category: Entertainment
+maintainer: Alexander Auer <thealexauer@gmail.com>
+license: UNLICENSED
+projectURL: http://www.github.com/dompstar/tvserver
