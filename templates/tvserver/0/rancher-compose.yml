@@ -1,5 +1,5 @@
 .catalog:
-  name: "Let's Encrypt"
+  name: "TV Server"
   version: 0.1.0
   description: "A easy deployment of the TV Server"
   minimum_rancher_version: v0.63.0
