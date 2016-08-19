@@ -84,6 +84,22 @@
         - Dyn
         - Namecheap
         - Route53
+        - Ovh
+    - variable: OVH_APPLICATION_KEY
+      label: Ovh Application Key
+      description: Enter the Application Key for your Ovh account.
+      type: string
+      required: false
+    - variable: OVH_APPLICATION_SECRET
+      label: Ovh Application Secret
+      description: Enter the Application Secret for your Ovh account.
+      type: string
+      required: false
+    - variable: OVH_CONSUMER_KEY
+      label: Ovh Consumer Key
+      description: Enter the Consumer Key Id for your Ovh account.
+      type: string
+      required: false
     - variable: AWS_ACCESS_KEY
       label: AWS Access Key Id
       description: Enter the Access Key Id for your AWS account.
